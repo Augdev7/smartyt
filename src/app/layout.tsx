@@ -10,9 +10,9 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
   title: {
     template: '%s | AGÊNCIA UP.EXPERT',
-    default: 'Agência full service, Gestão de Redes Sociais, SEO (Search Engine Optimization), Publicidade Online, Marketing de Conteúdo e Design Gráfico e Desenvolvimento Web.'
+    default: 'Agência full service, Gestão de Redes Sociais, SEO (Search Engine Optimization), Publicidade Online.'
   },
-  description: 'AGÊNCIA DE MARKETIGN DIGITAL EM BRASILIA | é uma empresa especializada em promover produtos, serviços e marcas na era digital. Seu principal objetivo é utilizar estratégias online para aumentar a visibilidade, o alcance e o engajamento de seus clientes, proporcionando resultados mensuráveis. Aqui está uma descrição mais detalhada para uma agência de marketing digital:',
+  description: 'AGÊNCIA DE MARKETIGN DIGITAL EM BRASILIA | é uma empresa especializada em promover produtos, serviços e marcas na era digital. Seu principal objetivo é utilizar estratégias online para aumentar a visibilidade, o alcance e o engajamento de seus clientes, proporcionando resultados mensuráveis.',
   verification: {
     google: 'google-site-verification=8v6zEqQQOckBK2wYrk8fyfM9Fy848TFIm9Bcd_ntqtk'
   },
